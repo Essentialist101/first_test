@@ -1,4 +1,4 @@
-baseURL = "https://chengzhanhuang.neilify.app"
+baseURL = "https://chengzhanhuang.netlify.app"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "en"
 # 网站语言zh-CN, 仅在这里 CN 大写
