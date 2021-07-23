@@ -9,7 +9,7 @@ hasCJKLanguage = true
 title = "HCZ"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
-theme = "LoveIt"
+theme = "LeaveIt"
 
 #菜单
 [menu]
@@ -45,7 +45,7 @@ theme = "LoveIt"
 
 [params]
   #  LoveIt 主题版本
-  version = "0.2.X"
+  version = ""
   # 网站描述
   description = "这里是HCZ的个人博客"
   # 网站关键词
